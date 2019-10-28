@@ -1,0 +1,19 @@
+.logo{
+margin:0px;
+padding:0px;
+width:25px;
+height:25px;
+
+}
+body{
+background:#f3f3f3;
+}
+.main{
+background:#fff;
+width:730px;
+margin:0 auto;
+overflow: hidden;
+padding:10px;
+
+}
+
